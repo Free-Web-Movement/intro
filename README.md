@@ -6,7 +6,7 @@ The Free Web Movement is a project trying to help people build:
 2. None blockable accounts
 3. Distributed, decentralized and persistent storage by the cryptocurrency network
 
-The Free Web Movement is trying to record every human beings' idea, regardless of their correctly.
+The Free Web Movement is trying to record every human beings' idea, regardless of their correctness.
 
 
 
