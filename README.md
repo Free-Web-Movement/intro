@@ -11,5 +11,16 @@ The Free Web Movement is a project trying to help people build:
 The Free Web Movement is trying to record every human beings' idea, regardless of their correctness.
 
 
+## The technical results will include the following distributed, decentralized, anonymous open source projects:
+
+1. A fundmental web framework.
+2. A crypto account system.
+3. A crypto currencey based payment system.
+4. A free application distributing center.
+
+## current process
+1. A fundmental web framework is ready to go, it is called [aex](https://github.com/calidion/aex), based on typescript and node.js.
+
+
 
 
