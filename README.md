@@ -16,7 +16,23 @@ The Free Web Movement is trying to record every human beings' idea, regardless o
 1. A fundmental web framework.
 2. A crypto account system.
 3. A crypto currencey based payment system.
-4. A free application distributing center.
+4. A free application distributing mechanism.
+
+## Minimum goals
+1. Decentralized chatting system
+2. Decetralized mailing system
+3. Decentralized DNS system
+4. Decentralized web Servicing system
+
+## Long term goals
+Help to turn most fundmental web services into decentralized/free web services.
+
+## Donation
+
+The free web movement needs your donation.
+
+💰 We accept bitcoins at: 1GFy83TVDjHFUTSbaqrVmrBk6x52bFLVpT
+
 
 ## current process
 1. A fundmental web framework is ready to go, it is called [aex](https://github.com/calidion/aex), based on typescript and node.js.
